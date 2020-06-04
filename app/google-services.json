@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "849175024809",
+    "firebase_url": "https://bwa-movie-app.firebaseio.com",
+    "project_id": "bwa-movie-app",
+    "storage_bucket": "bwa-movie-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849175024809:android:6820fa111537c93ecb45b8",
+        "android_client_info": {
+          "package_name": "com.adrianmulyawan.bwamov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849175024809-u6c3sk8mu5vl4efihjnlg2ksqi0ioa2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-0UM1vU3X-2th8FbHQkUjPFzn9x2t6Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849175024809-u6c3sk8mu5vl4efihjnlg2ksqi0ioa2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
