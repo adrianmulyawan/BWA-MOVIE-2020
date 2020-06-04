@@ -1,5 +1,5 @@
 # BWA-MOVIE-APP-2020
-## Projek ini merupakan projek berbasis Android dengan menggunakan bahasa pemrograman Kotlin untuk melakukan pemesanan tiket bioskop secara online 
+Projek ini merupakan projek berbasis Android dengan menggunakan bahasa pemrograman Kotlin untuk melakukan pemesanan tiket bioskop secara online 
 
 # Screenshot
 ![1](https://user-images.githubusercontent.com/42925072/83714114-118ae380-a654-11ea-8985-a5a92c57c56b.PNG) 
@@ -11,7 +11,7 @@
 ![8](https://user-images.githubusercontent.com/42925072/83714497-23b95180-a655-11ea-80ea-59e3e9b744a4.PNG)
 
 # Teknologi 
-## Firebase
+Firebase
 
 # Source
-## Adrian Mulyawan 2020
+Adrian Mulyawan 2020
