@@ -15,6 +15,3 @@ Firebase
 
 # Source
 Adrian Mulyawan 2020
-
-# Bug
-1. Saat signup dan menambahkan photo terjadi force close
